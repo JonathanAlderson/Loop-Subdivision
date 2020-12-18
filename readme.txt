@@ -1,3 +1,22 @@
+Loop Subdivision
+======
+Program to subdivide surfaces efficiently using directed edge data structures.
+Includes vertex re ordering and things like that.
+
+
+Pictures
+======
+
+![4](/screenshot4.png)
+![5](/screenshot5.png)
+![6](/screenshot6.png)
+![7](/screenshot7.png)
+
+
+
+Compilation
+======
+
 To compile on feng-linux / feng-gps:
 
 module add qt/5.13.0
