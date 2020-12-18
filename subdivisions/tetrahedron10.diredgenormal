@@ -1,0 +1,100 @@
+#
+# Created for Leeds COMP 5821M Autumn 2020
+#
+#
+# Surface vertices=10 faces=16
+#
+Vertex 0 -0.2500 -0.2500 -0.2500
+Vertex 1 0.2500 -0.2500 0.2500
+Vertex 2 -0.2500 0.2500 0.2500
+Vertex 3 0.2500 0.2500 -0.2500
+Vertex 4 -0.5000 0.0000 0.0000
+Vertex 5 0.0000 -0.5000 0.0000
+Vertex 6 0.0000 0.0000 0.5000
+Vertex 7 0.0000 0.0000 -0.5000
+Vertex 8 0.0000 0.5000 0.0000
+Vertex 9 0.5000 0.0000 0.0000
+Normal 0 0.5774 0.5774 0.5774
+Normal 1 -0.5774 0.5774 -0.5774
+Normal 2 0.5774 -0.5774 -0.5774
+Normal 3 -0.5774 -0.5774 0.5774
+Normal 4 1.0000 0.0000 0.0000
+Normal 5 0.0000 1.0000 0.0000
+Normal 6 0.0000 0.0000 -1.0000
+Normal 7 0.0000 0.0000 1.0000
+Normal 8 0.0000 -1.0000 0.0000
+Normal 9 -1.0000 0.0000 0.0000
+FirstDirectedEdge 0 13
+FirstDirectedEdge 1 25
+FirstDirectedEdge 2 37
+FirstDirectedEdge 3 40
+FirstDirectedEdge 4 1
+FirstDirectedEdge 5 2
+FirstDirectedEdge 6 0
+FirstDirectedEdge 7 4
+FirstDirectedEdge 8 3
+FirstDirectedEdge 9 6
+Face 0 4 5 6
+Face 1 7 4 8
+Face 2 5 7 9
+Face 3 9 8 6
+Face 4 0 5 4
+Face 5 0 4 7
+Face 6 0 7 5
+Face 7 3 8 9
+Face 8 1 6 5
+Face 9 2 8 4
+Face 10 3 9 7
+Face 11 2 6 8
+Face 12 2 4 6
+Face 13 3 7 8
+Face 14 1 5 9
+Face 15 1 9 6
+OtherHalf 0 38
+OtherHalf 1 14
+OtherHalf 2 26
+OtherHalf 3 41
+OtherHalf 4 17
+OtherHalf 5 29
+OtherHalf 6 44
+OtherHalf 7 20
+OtherHalf 8 32
+OtherHalf 9 47
+OtherHalf 10 23
+OtherHalf 11 35
+OtherHalf 12 16
+OtherHalf 13 18
+OtherHalf 14 1
+OtherHalf 15 19
+OtherHalf 16 12
+OtherHalf 17 4
+OtherHalf 18 13
+OtherHalf 19 15
+OtherHalf 20 7
+OtherHalf 21 31
+OtherHalf 22 39
+OtherHalf 23 10
+OtherHalf 24 43
+OtherHalf 25 45
+OtherHalf 26 2
+OtherHalf 27 37
+OtherHalf 28 33
+OtherHalf 29 5
+OtherHalf 30 40
+OtherHalf 31 21
+OtherHalf 32 8
+OtherHalf 33 28
+OtherHalf 34 36
+OtherHalf 35 11
+OtherHalf 36 34
+OtherHalf 37 27
+OtherHalf 38 0
+OtherHalf 39 22
+OtherHalf 40 30
+OtherHalf 41 3
+OtherHalf 42 46
+OtherHalf 43 24
+OtherHalf 44 6
+OtherHalf 45 25
+OtherHalf 46 42
+OtherHalf 47 9
